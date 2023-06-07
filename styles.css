@@ -81,13 +81,13 @@ section{
     
 }
 .bg1{
-    background-image: url(cycle.jpg);
+    background-image: url(/Images/cycle.jpg);
 }
 .bg2{
-    background-image: url(para.jpg);
+    background-image: url(/Images/para.jpg);
 }
 .bg3{
-    background-image: url(surf.jpg);
+    background-image: url(/Images/surf.jpg);
 }
 
 .secheading{
